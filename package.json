@@ -1,0 +1,24 @@
+{
+  "name": "yhjs-backend1-2.1",
+  "version": "1.0.0",
+  "description": "1. Skriv ett program som sparar citatet *\"Why, sometimes I've believed as many as six impossible things before breakfast.\"* i en textfil som heter alicequotes.txt. Använd **writeFile**.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisPersson/yhjs-backend1-2.1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisPersson/yhjs-backend1-2.1/issues"
+  },
+  "homepage": "https://github.com/KrisPersson/yhjs-backend1-2.1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
